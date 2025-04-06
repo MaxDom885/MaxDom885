@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence, even though I’m still getting familiar with it.  
 - 🌱 I’m currently learning Django, HTML, CSS, a bit of JavaScript, and Bootstrap for web development.  
 - 💞️ I’m looking to collaborate on web and mobile apps, websites, and open projects — especially with Flutter or Django.  
-- 📫 How to reach me: maxdom@example.com | [LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/masmoud-yacoubou-068a3b2b7/)) | GitHub  
+- 📫 How to reach me: maxdomyacoubou@gmail.com | [LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/masmoud-yacoubou-068a3b2b7/)) | GitHub  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: Still looking for a fun fact... stay tuned!
 
