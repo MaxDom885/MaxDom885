@@ -5,6 +5,6 @@
 - 🌐 Check out my portfolio: https://maxdom885.github.io/mon-portfolio/ 
 - 📫 How to reach me: maxdomyacoubou@gmail.com | [LinkedIn: [https://www.linkedin.com/in/masmoud-yacoubou-068a3b2b7/]| GitHub  
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: Still looking for a fun fact... stay tuned!
+- ⚡ Fun fact: I'm still looking for a fun fact... stay tuned!
 
 
